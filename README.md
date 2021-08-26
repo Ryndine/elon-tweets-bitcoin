@@ -1,4 +1,4 @@
-# project-grizzly
+# elon-tweets-bitcoin
 Project 1 UCSD Extension Data Analytics Bootcamp
 
 # Correlation Between Elon Musk's Twitter and Bitcoin Values
@@ -16,9 +16,9 @@ What this data will be collecting:
 - All Dogecoin values and trades from 2021 to 2019 using Klines Binance Data.
 
 Our methods and observation directions:
-- First we'll be using Textblob to create a function that can read all the tweets and identify when selected words are being used. Is this case we'll be looking for "Telsa", "Bitcoin", "Dogecoin, and all other phrases within those categories that we identify.
-- Using that new DataFrame we will be able to compare those specific tweets in time to the value of the bitcoin that matches that date & time. In order to improve accuracy we'll be looking between 5 and 30 minute intervals and calculating the percent change between them.
-- Using percent change we can create a scatter plot to see overall if his tweets have had a positive or negative influence over bitcoin value.
-- Lastly we can find out if there is any correlation between how many times he tweets in a day vs the amount of trades that happened in a day.
-- We're bringing in Dogecoin data as well so that we can test this against another coin.
+- Work on ETL for project.
+- With Textblob, we will analyze all of Elon Musk's tweets to extract all noun phrases and store them into a new dataframe.
+- Use the new DataFrame, we can find a ponit in time when Elon Musk says mentions "Telsa", "Bitcoin", and "Dogecoin", then check what the value of Bitcoin and Dogecoin were around that time.
+- Using 5 & 30 minute periods we can calcuate and plot percent change which can be uased to verify correlation between Elon Musk's Tweets and Coin Values.
+- The inclusion of Dogecoin data is so we have another currency to test the collected data against.
 - Telsa is being analyzed as well because we can see values before Telsa accepted bitcoin vs after it started accepting it.
