@@ -1,7 +1,7 @@
-# elon-tweets-bitcoin
-Project 1 UCSD Extension Data Analytics Bootcamp
-
 # Correlation Between Elon Musk's Twitter and Bitcoin Values
+[Ryan Mangeno](https://github.com/Ryndine)
+
+# Objective: 
 The goal of this project is to collect data and identify whether Elon Musk's twitter activity has any correlation with Bitcoin values.
 
 ## Tools & Databases Used:
