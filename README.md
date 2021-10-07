@@ -1,10 +1,10 @@
 # Correlation Between Elon Musk's Twitter and Bitcoin Values
 [Ryan Mangeno](https://github.com/Ryndine)
 
-# Objective: 
+## Objective: 
 The goal of this project is to collect data and identify whether Elon Musk's twitter activity has any correlation with Bitcoin values.
 
-## Tools & Databases Used:
+## Tools & databases used:
 - Python / Jupyter
 - Textblob
 - Klines Binance Data Collection
@@ -15,7 +15,7 @@ The goal of this project is to collect data and identify whether Elon Musk's twi
 - All Bitcoin values and trades from 2021 to 2019 using Klines Binance Data.
 - All Dogecoin values and trades from 2021 to 2019 using Klines Binance Data.
 
-## Our methods and observation directions:
+## Methods and observation directions:
 - Work on ETL for project.
 - With Textblob, we will analyze all of Elon Musk's tweets to extract all noun phrases and store them into a new dataframe.
 - Use the new DataFrame, we can find a ponit in time when Elon Musk says mentions "Telsa", "Bitcoin", and "Dogecoin", then check what the value of Bitcoin and Dogecoin were around that time.
