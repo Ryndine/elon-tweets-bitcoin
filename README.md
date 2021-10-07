@@ -1,4 +1,4 @@
-# Correlation Between Elon Musk's Twitter and Bitcoin Values
+# Elon Musk's Twitter and Bitcoin Values
 [Ryan Mangeno](https://github.com/Ryndine)
 
 ## Objective: 
