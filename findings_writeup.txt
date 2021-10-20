@@ -1,0 +1,31 @@
+Does mentioning Bitcoin influence BTC value?
+
+Images: btc_5minutes, btc_30Minutes, btc_crypto_5minutes, btc_crypto_30minutes, twitter_btc_trades, BTC averages for each plot.
+
+Findings: According to the data represented here we cannot say there are any correlations between Elon Musk mentioning BTC and the value of BTC. The data is too scattered, or flat. The averages of all the plots are within the same average regardless of tweet activity.
+
+
+Do Tesla tweets influence Bitcoin value now that Tesla accepts BTC?
+
+Images: btc_tesla_5minutes, btc_tesla_30minutes.
+
+Findings: As with the other plots these show no correlation between Tesla tweets and BTC value.
+
+
+Is there any relation between how much Elon tweets vs how many trades happen within the day?
+
+Images: twitter_btc_trades.
+
+Findings: This plot shows that the value of BTC fluctuates regardless of how much Elon tweets. Days when he doesn't tweet have a lot of trades, and his highest day of tweet has very few trades.
+
+
+Does any of this extend to other currencies, such as Dogecoin?
+
+Images: All doge related files.
+
+Findings: As with the BTC observations the Doge analysis came out nearly identical with no correlation between the datasets.
+
+
+Is there any correlation between Elon Musk’s Twitter activity and the value of bitcoin?
+
+Findings: According to this dataset we can safely say without a doubt that Elon Musk has no influence over the value of Bitcoin, or any other cyrpto currency.
