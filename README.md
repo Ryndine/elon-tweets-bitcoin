@@ -257,5 +257,5 @@ I decided to see if there was any correlation between the number of trades that 
 As you can see the results are pretty definitive based on what I acquired. There is no correlation beteen Elon's Tweets and the value of Bitcoin.
 
 ## Limitations:
-- The data is sorted through manually, therefore the accuracy of the results is directly influenced by the ability to correctly sort through all of Elon Musk's tweets. Machine learning will be able to do this better, but for this project I did not have the experience, nor the time to tackle it.
+- The data is sorted through manually, therefore the accuracy of the results is directly influenced by the ability to correctly sort through all of Elon Musk's tweets. Machine learning will be able to do this better, but for this project I did not have the experience to do it.
 - Due to time constraints the fields are common phrases + a few words I saw used in relation to topics I wanted.
