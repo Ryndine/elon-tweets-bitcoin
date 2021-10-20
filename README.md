@@ -244,9 +244,18 @@ crypto_dogeval_tweets.to_csv('crypto_dogeval_tweets.csv', index=False)
 
 **Analysis**
 
+For the analysis, I took the percent change of the bitcoin value between the interval that a tweet happens. This gives us an idea of how much the value changed when a tweet happened.
 
+To help improve the dataset and declare causation I added multiple fields to the analysis as well as running the same analyst for dogecoin. These are the results: 
 
+![Combined Images](https://github.com/Ryndine/elon-tweets-bitcoin/blob/main/images/combined.png)
+
+I decided to see if there was any correlation between the number of trades that happen when a tweet is posted.
+
+![Trades](https://github.com/Ryndine/elon-tweets-bitcoin/blob/main/images/trades.png)
+
+As you can see the results are pretty definitive based on the results I acquired. There is no correlation beteen Elon's Tweets and the value of Bitcoin.
 
 ## Limitations:
-- The data is collected manually, therefore the accuracy of the results is directly influenced by our ability to correctly sort through all of Elon Musk's tweets.
-- Due to time constraints we have to use common terms, and anything that's immediately identifiable.
+- The data is sorted through manually, therefore the accuracy of the results is directly influenced by the ability to correctly sort through all of Elon Musk's tweets. Machine learning will be able to do this better, but for this project I did not have the experience, nor the time to tackle it.
+- Due to time constraints the fields are common phrases + a few words I saw used in relation to topics I wanted.
