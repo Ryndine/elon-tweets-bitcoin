@@ -254,7 +254,7 @@ I decided to see if there was any correlation between the number of trades that 
 
 ![Trades](https://github.com/Ryndine/elon-tweets-bitcoin/blob/main/images/trades.png)
 
-As you can see the results are pretty definitive based on what I acquired. There is no correlation beteen Elon's Tweets and the value of Bitcoin.
+As you can see the results are pretty definitive based on what I acquired. There is no correlation between Elon's Tweets and the value of Bitcoin.
 
 ## Limitations:
 - The data is sorted through manually, therefore the accuracy of the results is directly influenced by the ability to correctly sort through all of Elon Musk's tweets. Machine learning will be able to do this better, but for this project I did not have the experience to do it.
